@@ -1,0 +1,5 @@
+index.js : 
+import browserRouter, put it inside restricted and put app inside it
+
+app.js :
+import route, routes and add home route
